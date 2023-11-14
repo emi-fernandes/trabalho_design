@@ -500,7 +500,7 @@ button:focus {
 }
 
 .banner_area .bg-parallax {
-  background: url("../image/banner_bg.jpg") no-repeat scroll center 0/cover;
+  background: url("../image/copacabana_palace_home.jpg") no-repeat scroll center 0/cover;
   opacity: 0.50;
 }
 
@@ -829,7 +829,7 @@ button:focus {
 }
 
 .facilities_area .bg-parallax {
-  background: url("../image/facilites_bg.jpg") no-repeat scroll center 0/cover;
+  background: url("../image/copacabana_palace_view.jpg") no-repeat scroll center 0/cover;
   opacity: 0.15;
 }
 
