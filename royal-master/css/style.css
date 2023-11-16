@@ -2106,11 +2106,11 @@ button:focus {
 }
 
 .warning {
-  background: #f4e700;
+  background: #ccb55f;
 }
 
 .warning:before {
-  background: #e1d608;
+  background: #ccb55f;
 }
 
 .danger {
@@ -2153,12 +2153,12 @@ button:focus {
 
 .warning-border {
   background: #fff;
-  border: 1px solid #f4e700;
-  color: #f4e700;
+  border: 1px solid #ccb55f;
+  color: #ccb55f;
 }
 
 .warning-border:before {
-  background: #f4e700;
+  background: #ccb55f;
 }
 
 .danger-border {
@@ -2173,12 +2173,12 @@ button:focus {
 
 .link-border {
   background: transparent;
-  border: 1px solid #f3c300;
-  color: #f3c300;
+  border: 1px solid #ccb55f;
+  color: #ccb55f;
 }
 
 .link-border:before {
-  background: #f3c300;
+  background: #ccb55f;
 }
 
 .radius {
@@ -2234,7 +2234,7 @@ button:focus {
 
 .generic-banner {
   margin-top: 60px;
-  background-color: #f8b600;
+  background-color: #ccb55f;
   text-align: center;
 }
 
@@ -2331,7 +2331,7 @@ button:focus {
 }
 
 b, sup, sub, u, del {
-  color: #f8b600;
+  color: #ccb55f;
 }
 
 h1 {
@@ -2542,7 +2542,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .genric-btn.warning {
   color: #fff;
-  background: #f4e700;
+  background: #ccb55f;
   border: 1px solid transparent;
 }
 
