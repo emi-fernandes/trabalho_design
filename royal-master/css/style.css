@@ -848,7 +848,7 @@ button:focus {
 }
 
 .facilities_item .sec_h4 i {
-  color: #f3c300;
+  color: #ccb55f;
   font-size: 24px;
   line-height: 38px;
   display: inline-block;
@@ -951,11 +951,11 @@ button:focus {
 }
 
 .testimonial_slider .testimonial_item .sec_h4:hover {
-  color: #52c5fd;
+  color: #ccb55f;
 }
 
 .testimonial_slider .testimonial_item .star a {
-  color: #f3c300;
+  color: #ccb55f;
   font-size: 14px;
 }
 
@@ -976,7 +976,7 @@ button:focus {
 }
 
 .testimonial_slider .owl-dots .owl-dot.active {
-  background: #f3c300;
+  background: #ccb55f;
 }
 
 /*---------------------------------------------------- */
@@ -1036,7 +1036,7 @@ button:focus {
 }
 
 .tags .tag_btn:before {
-  background: #f3c300;
+  background:#ccb55f;
 }
 
 .tags .tag_btn + .tag_btn {
@@ -1102,7 +1102,7 @@ button:focus {
 }
 
 .categories_post:hover .categories_details {
-  background: rgba(248, 182, 0, 0.85);
+  background: #ccb55f(248, 182, 0, 0.85);
 }
 
 /*============ blog_left_sidebar css ==============*/
@@ -1197,7 +1197,7 @@ button:focus {
 .blog_right_sidebar .widget_title {
   font-size: 18px;
   line-height: 25px;
-  background: #f3c300;
+  background:#ccb55f;
   text-align: center;
   color: #fff;
   padding: 8px 0px;
@@ -1214,7 +1214,7 @@ button:focus {
   padding-left: 20px;
   border-radius: 45px;
   z-index: 0;
-  background: #f3c300;
+  background: #ccb55f;
 }
 
 .blog_right_sidebar .search_widget .input-group .form-control.placeholder {
@@ -1407,7 +1407,7 @@ button:focus {
 }
 
 .blog_right_sidebar .newsletter_widget .bbtns {
-  background: #f8b600;
+  background: #ccb55f;
   color: #fff;
   font-size: 12px;
   line-height: 38px;
@@ -1439,7 +1439,7 @@ button:focus {
 }
 
 .blog_right_sidebar .tag_cloud_widget ul li a:hover {
-  background: #f3c300;
+  background: #ccb55f;
   color: #fff;
 }
 
