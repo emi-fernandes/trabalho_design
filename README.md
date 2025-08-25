@@ -23,6 +23,6 @@ Este trabalho foi desenvolvido em grupo.
 
 ### Estrutura do Repositório
 
-* **`/fotos-originais`**: Contém as fotos em sua versão original, sem edições.
-* **`/fotos-atualizadas`**: Armazena as fotos que já passaram pelo processo de edição e foram aprovadas.
+* **`/fotos_design`**: Contém as fotos em sua versão original, sem edições.
+* **`/fotos_prontas`**: Armazena as fotos que já passaram pelo processo de edição e foram aprovadas.
 
